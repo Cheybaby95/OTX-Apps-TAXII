@@ -71,4 +71,4 @@ if __name__ == "__main__":
     if sys.argv[1] == "first_run":
         sendTAXII(True)
     else:
-        usage()
+        usage()h
